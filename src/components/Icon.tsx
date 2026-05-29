@@ -29,14 +29,20 @@ export const Icon = {
   ),
 };
 
-export const Logo = ({ dark = false }: { dark?: boolean }) => (
+type LogoProps = { dark?: boolean; logoUrl?: string };
+
+export const Logo = ({ dark = false, logoUrl }: LogoProps) => (
   <span className="logo">
     <span className="logo-mark">
-      <svg viewBox="0 0 32 32" width="20" height="20" fill="none" aria-hidden="true">
-        <path d="M4 12 L16 5 L28 12 V24 H4 Z" stroke="#fff" strokeWidth="2" strokeLinejoin="round" fill="none" />
-        <path d="M4 12 L16 5 L28 12" stroke="#fff" strokeWidth="2.4" strokeLinejoin="round" fill="rgba(255,255,255,0.15)" />
-        <path d="M10 24 V14 M22 24 V14 M16 24 V9" stroke="#fff" strokeWidth="1.2" opacity="0.6" />
-      </svg>
+      {logoUrl ? (
+        <img src={logoUrl} alt="Katted24" style={{ width: "100%", height: "100%", objectFit: "contain", background: "#fff" }} />
+      ) : (
+        <svg viewBox="0 0 32 32" width="20" height="20" fill="none" aria-hidden="true">
+          <path d="M4 12 L16 5 L28 12 V24 H4 Z" stroke="#fff" strokeWidth="2" strokeLinejoin="round" fill="none" />
+          <path d="M4 12 L16 5 L28 12" stroke="#fff" strokeWidth="2.4" strokeLinejoin="round" fill="rgba(255,255,255,0.15)" />
+          <path d="M10 24 V14 M22 24 V14 M16 24 V9" stroke="#fff" strokeWidth="1.2" opacity="0.6" />
+        </svg>
+      )}
     </span>
     <span className="logo-text" style={dark ? { color: "#fff" } : undefined}>KATTED<span className="num">24</span></span>
   </span>

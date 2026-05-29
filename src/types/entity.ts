@@ -37,6 +37,7 @@ export type Katted24Entity = {
   mainPhone?: string;
   emails?: string[];
   facebookPageUrl?: string;
+  logo?: YextImage;
 
   // Header / global CTAs
   c_navLabels: string[];

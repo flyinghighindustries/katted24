@@ -6,7 +6,8 @@
   "id": "393880",
   "name": "Katted24 OÜ",
   "address": {
-    "line1": "Gaasi 7",
+    "line1": "Gaasi tn 7",
+    "line2": "Lasnamäe linnaosa",
     "city": "Tallinn",
     "region": "Harju maakond",
     "postalCode": "13816",
@@ -17,6 +18,11 @@
     "info@katted24.ee"
   ],
   "facebookPageUrl": "https://www.facebook.com/katted24",
+  "logo": {
+    "image": {
+      "url": "https://a.mktgcdn.com/p/wBfiYHJOaObxAzKYPYIiJ-BqDC9i6cwE_E8_yssErqw/2336x2336.png"
+    }
+  },
   "slug": "en",
   "c_navLabels": [
     "Solutions",
@@ -180,16 +186,36 @@
   "c_faqQuestions": [
     "How is the price calculated?",
     "How does ordering work?",
+    "How does measuring work?",
+    "How does shipping and transport work?",
+    "How thick and durable is the cover?",
+    "Is the cover waterproof?",
+    "Does the cover handle UV exposure?",
+    "How do I care for the cover?",
+    "Is the cover suitable for year-round use?",
+    "How precise do measurements need to be?",
     "How long does production take?",
-    "Do you offer delivery and installation?",
-    "What material do you use?"
+    "Do you make custom or non-standard shapes?",
+    "Can I choose the colour and material?",
+    "Do you install the cover yourselves?",
+    "Do you produce from an existing old cover?"
   ],
   "c_faqAnswers": [
-    "Price depends on dimensions, material and fittings. We send a detailed quote with material, labour and delivery shown separately. (Exact pricing logic to be confirmed with the client.)",
-    "Send us your dimensions and a photo or drawing and we'll send you a quote. (Ordering process to be confirmed with the client.)",
-    "It depends on the product and volume — we give an exact timeline with the quote. We can speed up urgent orders where possible.",
-    "Yes — we pick up and deliver across Estonia, including the islands. We can install on site and show you how to use it.",
-    "We use durable PVC fabric (up to 900 g/m²), UV-stable materials and stainless fittings."
+    "Every project is different, so we can only quote accurately after we have the essentials. Please share:\n\n• Dimensions — accurate measurements ensure correct pricing and a proper fit.\n• A sketch or drawing — a simple hand-drawn sketch works perfectly.\n• Photos of the location or item — preferably 2–3 shots from different angles so we understand the context.\n• Preferred colour — colour affects both material choice and the final price.\n\nWith all of that in hand, we can put together a precise quote quickly.",
+    "Ordering is simple and fast. To make sure the result is exactly right, the process runs as follows:\n\n• Sending information — you send us dimensions, 2–3 photos of the installation spot and the preferred colour. A sketch or drawing is welcome.\n• Maker's clarifications — our maker contacts you to go over measurements, special requirements and any details before work begins.\n• Confirming completion — once the details are agreed, the maker tells you an indicative completion time and the cover goes into production.",
+    "Accurate measurements are the foundation of a quality result. If you're not sure how to measure:\n\n• Phone guidance — the maker walks you through the steps over the phone so the measurements come out right.\n• On-site measuring — we can come and take the measurements professionally. The fee is agreed beforehand, depending on the location.",
+    "Smaller packages go via parcel lockers across Estonia. Larger items move via Cargobus or by Jet Express courier directly to your home or workshop. The method depends on dimensions and weight — we always find the most convenient option.",
+    "We use high-quality, durable materials that handle everyday use, moisture and outdoor conditions. Thickness and strength depend on the chosen fabric, but every option is built to last.",
+    "Every cover we make is either waterproof or water-repellent — matched to the customer's needs and the place it will be used.",
+    "Yes — we use UV-protected materials that keep their colour even in direct sun. This is especially important for covers used outdoors.",
+    "The cover needs minimal upkeep. We recommend cleaning with a damp cloth or mild detergent. Regular care significantly extends its life.",
+    "All of our materials are suitable for year-round use.",
+    "The more precise, the better the result. If you're not sure how to measure, just call us — the maker will guide you step by step. We can also come and measure on site (price agreed in advance).",
+    "Production time depends on the complexity of the work and the current queue. On average it takes 1–3 working days. The maker confirms the exact completion time after reviewing measurements and details.",
+    "Yes — all of our work is made to order. We can produce covers in any size and shape.",
+    "Yes — we have the widest colour and material selection in Estonia. If you're unsure which material is right, the maker helps you choose the most durable and appropriate option.",
+    "If the product needs installation, we can take care of it. Availability and price depend on location and the nature of the work.",
+    "Yes — we can make covers either from accurate measurements or based on an existing old cover. If you'd like a new cover made from the old one, the old one should be in as intact a condition as possible. Over time some materials can shrink in the sun, so please let us know whether you want the new cover identical to the old one or slightly larger for a perfect fit.\n\nIf you're further from Tallinn, no problem — you can ship the old cover to us. We work with Cargobus and Jet Express couriers who deliver parcels to us safely and return the new covers to your address."
   ],
   "c_formEyebrow": "Quote request",
   "c_formTitle": "Send your dimensions, get an exact quote",
@@ -304,15 +330,24 @@
     "Phone",
     "Email",
     "Address",
-    "Opening hours"
+    "Opening hours",
+    "Reg. no.",
+    "LHV",
+    "COOP"
   ],
   "c_contactRowValues": [
     "+372 566 555 66",
     "info@katted24.ee",
-    "Gaasi 7, Tallinn",
-    "Mon–Fri 9:00–17:00"
+    "Gaasi tn 7, Lasnamäe, 13816 Tallinn",
+    "Mon–Fri 9:00–17:30  ·  Sat–Sun by appointment",
+    "16138290",
+    "EE20 7700 7710 0593 9502",
+    "EE33 4204 2786 3250 2801"
   ],
   "c_contactRowSmall": [
+    "",
+    "",
+    "",
     "",
     "",
     "",
@@ -324,7 +359,7 @@
     "Contact",
     "Language"
   ],
-  "c_footerLegalLine": "© 2026 Katted24 OÜ",
+  "c_footerLegalLine": "© 2026 Katted24 OÜ  ·  Reg. no. 16138290",
   "c_footerLegalLinks": [
     "Privacy",
     "Terms",
@@ -372,58 +407,58 @@
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_1b169f214c754f899b265bd4b555b2ac~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Tendid ja koormakatted"
+        "alternateText": "Tarpaulins and load covers"
       },
-      "description": "Tendid ja koormakatted"
+      "description": "Tarpaulins and load covers"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_3b6eb78390ff4cf5bb4b67f902f211f6~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Kollane kerghaagise kate"
+        "alternateText": "Yellow light-trailer cover"
       },
-      "description": "Kollane kerghaagise kate"
+      "description": "Yellow light-trailer cover"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_6e138e7ade184e4f8e59f1ca4d487d70~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Must PVC järelhaagise kate"
+        "alternateText": "Black PVC trailer cover"
       },
-      "description": "Must PVC järelhaagise kate"
+      "description": "Black PVC trailer cover"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_90ef3abcfccc471c9019bd901365ae6b~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Sini-must-valge erilahendus"
+        "alternateText": "Blue-black-white custom"
       },
-      "description": "Sini-must-valge erilahendus"
+      "description": "Blue-black-white custom"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_8dda5be1166949749c3dae94a11a459e~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Läbipaistev kate aiamajale"
+        "alternateText": "Transparent garden-house cover"
       },
-      "description": "Läbipaistev kate aiamajale"
+      "description": "Transparent garden-house cover"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_909126281d24428f94551355fe9c8430~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "PVC parandustööd"
+        "alternateText": "PVC repair work"
       },
-      "description": "PVC parandustööd"
+      "description": "PVC repair work"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_f6c46cc3571f454a9e88d476b7a78c7c~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Sinine treileri kate"
+        "alternateText": "Blue trailer cover"
       },
-      "description": "Sinine treileri kate"
+      "description": "Blue trailer cover"
     },
     {
       "image": {
         "url": "https://static.wixstatic.com/media/9022ee_6f48f3d03dbc42afab4503a3b48d5625~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_auto/.jpg",
-        "alternateText": "Punane kastikate"
+        "alternateText": "Red box cover"
       },
-      "description": "Punane kastikate"
+      "description": "Red box cover"
     }
   ]
 }

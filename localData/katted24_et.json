@@ -6,7 +6,8 @@
   "id": "393880",
   "name": "Katted24 OÜ",
   "address": {
-    "line1": "Gaasi 7",
+    "line1": "Gaasi tn 7",
+    "line2": "Lasnamäe linnaosa",
     "city": "Tallinn",
     "region": "Harju maakond",
     "postalCode": "13816",
@@ -17,7 +18,12 @@
     "info@katted24.ee"
   ],
   "facebookPageUrl": "https://www.facebook.com/katted24",
-  "slug": "",
+  "logo": {
+    "image": {
+      "url": "https://a.mktgcdn.com/p/wBfiYHJOaObxAzKYPYIiJ-BqDC9i6cwE_E8_yssErqw/2336x2336.png"
+    }
+  },
+  "slug": "index.html",
   "c_navLabels": [
     "Lahendused",
     "Kasutusalad",
@@ -178,18 +184,38 @@
   "c_faqHeading": "Korduma kippuvad küsimused",
   "c_faqIntro": "Levinumad küsimused hinna, tellimise ja valmistamise kohta.",
   "c_faqQuestions": [
-    "Kuidas kujuneb katte hind?",
+    "Kuidas kujuneb hind?",
     "Kuidas tellimine käib?",
-    "Kui kaua valmistamine võtab?",
-    "Kas pakute kohaletoimetamist ja paigaldust?",
-    "Millist materjali kasutate?"
+    "Kuidas käib mõõtmine?",
+    "Kuidas toimub saatmine ja transport?",
+    "Kui paks ja vastupidav on kate?",
+    "Kas kate on veekindel?",
+    "Kas kate talub UV-kiirgust?",
+    "Kuidas katet hooldada?",
+    "Kas kate sobib aastaringseks kasutamiseks?",
+    "Kui täpsed peavad mõõdud olema?",
+    "Kui kaua tootmine aega võtab?",
+    "Kas teete ka erikujulisi või ebastandardseid katteid?",
+    "Kas saan valida värvi ja materjali?",
+    "Kas paigaldate ka katte ise?",
+    "Kas toodate ka vana katte järgi?"
   ],
   "c_faqAnswers": [
-    "Hind sõltub mõõtudest, materjalist ja kinnitustest. Saadame täpse pakkumise, kus materjali, töö ja transpordi maksumus on eraldi välja toodud. (Täpne hinnastamise loogika täpsustub kliendiga.)",
-    "Saada meile mõõdud ja foto või joonis ning saadame Sulle hinnapakkumise. (Tellimise protsess täpsustub kliendiga.)",
-    "Sõltub tootest ja mahust — täpse tähtaja anname pakkumisega. Kiireloomuliste tellimuste korral kiirendame võimalusel.",
-    "Jah, toome ja viime kogu Eesti piires, vajadusel ka saartel. Vajadusel paigaldame ja õpetame kasutuse selgeks.",
-    "Kasutame vastupidavat PVC-kangast (kuni 900 g/m²), UV-kindlaid materjale ja roostevabu kinnitusi."
+    "Iga projekt on erinev, mistõttu saame anda täpse hinnapakkumise alles pärast vajaliku info saamist. Selleks palume edastada:\n\n• Mõõdud — täpsed mõõdud tagavad korrektse hinnastuse ja sobiva lõpptulemuse.\n• Visand või joonis — lihtne käsitsi tehtud visand sobib suurepäraselt.\n• Fotod kohast või esemest, kuhu katet soovite — soovitavalt 2–3 pilti erinevatest külgedest, et mõista konteksti ja eripärasid.\n• Soovitud värvus — värv mõjutab nii materjali valikut kui ka lõplikku hinda.\n\nKui kõik vajalik info on olemas, saame koostada täpse ja kiire hinnapakkumise.",
+    "Tellimine on lihtne ja kiire. Täpse tulemuse tagamiseks toimub protsess järgmiste sammudena:\n\n• Info edastamine — klient saadab meile mõõdud, 2–3 fotot paigalduskohast ning soovitud värvuse. Soovi korral võib lisada ka visandi või joonise.\n• Meistri täpsustused — meister võtab kliendiga ühendust, et ühiselt üle kontrollida mõõdud, eripärad ja kõik olulised detailid enne töö alustamist.\n• Valmimisaja kinnitamine — kui kõik andmed on täpsustatud, annab meister teada orienteeruva valmimisaja ning kate läheb tootmisse.",
+    "Täpsed mõõdud on kvaliteetse tulemuse alus. Kui klient ei ole kindel, kuidas mõõte võtta:\n\n• Telefoninõustamine — meister selgitab telefoni teel samm sammult, kuidas vajalikud mõõdud õigesti võtta, et tagada täpne sobivus ja ilus lõpptulemus.\n• Kohapealne mõõtmine — soovi korral tuleme ise kohale ja võtame mõõdud professionaalselt. Teenuse hind lepitakse eelnevalt kokku, sõltuvalt objekti asukohast.",
+    "Väiksemad pakid saadame üle Eesti pakiautomaatidesse. Suuremad tooted liiguvad kas Cargobusi esindusse või Jet Expressi kulleriga otse teie koju või tehasesse. Transpordiviis sõltub toote mõõtudest ja kaalust — leiame alati kõige mugavama lahenduse.",
+    "Kasutame kvaliteetseid ja vastupidavaid materjale, mis taluvad igapäevast kasutust, niiskust ja välitingimusi. Materjali paksus ja tugevus sõltub valitud kangast, kuid kõik variandid on mõeldud pikaajaliseks kasutamiseks.",
+    "Kõik katted on veekindlad või vett hülgavad, mis vastavad kliendi vajadustele ja kasutuskohale.",
+    "Jah — kasutame UV-kaitsega materjale, mis säilitavad oma värvi ka päikese käes. See on eriti oluline välitingimustes kasutatavate katete puhul.",
+    "Kate vajab minimaalset hooldust. Soovitame puhastada niiske lapiga või õrna pesuvahendiga. Regulaarne hooldus pikendab oluliselt katte eluiga.",
+    "Kõik meie materjalid sobivad aastaringseks kasutamiseks.",
+    "Mida täpsemad mõõdud, seda parem tulemus. Kui klient ei ole kindel, kuidas mõõta, saab alati helistada — meister juhendab samm sammult. Soovi korral tuleme ka ise kohale mõõte võtma (hind kokkuleppel).",
+    "Tootmisaeg sõltub töö keerukusest ja järjekorrast. Keskmiselt kulub 1–3 tööpäeva. Täpse valmimisaja kinnitab meister pärast mõõtude ja detailide ülevaatamist.",
+    "Jah — kõik meie tööd on eritellimusel. Saame valmistada katteid igas mõõdus ja kujus.",
+    "Jah — meil on Eesti suurim värvi- ja materjalivalik. Kui klient ei ole kindel, milline materjal sobib, aitab meister valida kõige vastupidavama ja sobivama variandi.",
+    "Kui tegemist on tootega, mis vajab paigaldust, saame selle soovi korral ise teostada. Paigaldusvõimalus ja hind sõltuvad asukohast ja töö iseloomust.",
+    "Jah — valmistame katteid nii täpsete mõõtude järgi kui ka olemasoleva vana katte põhjal. Kui soovite uut katet vana järgi, on oluline, et vana kate oleks võimalikult terves seisukorras. Aja jooksul võivad mõned materjalid päikese käes kokku tõmmata, seega palume alati täpsustada, kas soovite uut katet täpselt sama mõõduga või pigem veidi suuremat, et see sobiks ideaalselt.\n\nKui asute Tallinnast kaugemal, pole probleemi — saate vana katte meile mugavalt saata. Meil on koostöö Cargobusi ja Jet Expressi kulleritega, kes toimetavad pakid turvaliselt meieni ning hiljem uued katted ka tagasi teie aadressile."
   ],
   "c_formEyebrow": "Pakkumise päring",
   "c_formTitle": "Saada mõõdud, saa täpne pakkumine",
@@ -304,15 +330,24 @@
     "Telefon",
     "E-post",
     "Aadress",
-    "Lahtiolekuajad"
+    "Lahtiolekuajad",
+    "Reg. nr",
+    "LHV",
+    "COOP"
   ],
   "c_contactRowValues": [
     "+372 566 555 66",
     "info@katted24.ee",
-    "Gaasi 7, Tallinn",
-    "E–R 9.00–17.00"
+    "Gaasi tn 7, Lasnamäe, 13816 Tallinn",
+    "E–R 9.00–17.30  ·  L–P kokkuleppel",
+    "16138290",
+    "EE20 7700 7710 0593 9502",
+    "EE33 4204 2786 3250 2801"
   ],
   "c_contactRowSmall": [
+    "",
+    "",
+    "",
     "",
     "",
     "",
@@ -324,7 +359,7 @@
     "Kontakt",
     "Keel"
   ],
-  "c_footerLegalLine": "© 2026 Katted24 OÜ",
+  "c_footerLegalLine": "© 2026 Katted24 OÜ  ·  Reg. nr 16138290",
   "c_footerLegalLinks": [
     "Privaatsus",
     "Tingimused",
